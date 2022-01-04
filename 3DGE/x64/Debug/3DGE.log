@@ -1,0 +1,20 @@
+﻿  AppWindow.cpp
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(38,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(39,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(40,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(41,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(46,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(47,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(48,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(49,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(54,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(55,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(56,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(57,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(103,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(104,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(105,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(106,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\Matrix4x4.h(149,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Program Files (x86)\C# Assignment\3DGE\AppWindow.cpp(196,97): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  3DGE.vcxproj -> D:\Program Files (x86)\C# Assignment\x64\Debug\3DGE.exe
